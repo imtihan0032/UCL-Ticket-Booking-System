@@ -1,0 +1,7 @@
+01,05,2021,PSG,20,00,Anfield,300
+05,05,2021,FC Barcelona,20,00,Camp Nou,200
+09,05,2021,Arsenal,20,00,Anfield,300
+13,05,2021,AC Milan,20,00,Anfield,300
+17,05,2021,AS Roma,20,00,Anfield,300
+21,05,2021,Juventus,20,00,Allianz Stadium,225
+25,05,2021,Real Madrid,20,00,Santiago Bernabeu,250

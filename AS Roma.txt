@@ -1,0 +1,7 @@
+01,05,2021,AC Milan,20,00,San Siro Stadium,150
+05,05,2021,Real Madrid,20,00,Santiago Bernabeu,250
+09,05,2021,PSG,20,00,Stadio Olimpico,120
+13,05,2021,Juventus,20,00,Allianz Stadium,225
+17,05,2021,Liverpool,20,00,Anfield,300
+21,05,2021,Arsenal,20,00,Emirates Stadium,150
+25,05,2021,FC Barcelona,20,00,Camp Nou,200
